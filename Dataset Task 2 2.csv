@@ -1,0 +1,11 @@
+ID,Age,Gender,Salary,Purchased
+1,23,Male,60000,No
+2,25,Female,65000,Yes
+3,30,Male,70000,No
+4,35,Female,72000,Yes
+5,40,Male,80000,No
+6,23,Female,58000,Yes
+7,26,Male,61000,No
+8,32,Female,71000,Yes
+9,28,Male,68000,Yes
+10,38,Female,78000,No
